@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nmocherniuk/react-website-meals.git/static/css/main.cdcbf01a.css",
+    "main.js": "/nmocherniuk/react-website-meals.git/static/js/main.4f11b7e9.js",
+    "static/media/meals.jpg": "/nmocherniuk/react-website-meals.git/static/media/meals.e3216b38c0be035d2231.jpg",
+    "index.html": "/nmocherniuk/react-website-meals.git/index.html",
+    "main.cdcbf01a.css.map": "/nmocherniuk/react-website-meals.git/static/css/main.cdcbf01a.css.map",
+    "main.4f11b7e9.js.map": "/nmocherniuk/react-website-meals.git/static/js/main.4f11b7e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdcbf01a.css",
+    "static/js/main.4f11b7e9.js"
+  ]
+}
